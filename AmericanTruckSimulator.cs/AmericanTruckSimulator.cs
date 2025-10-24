@@ -18,10 +18,10 @@ namespace WindowsGSM.Plugins
         public Plugin Plugin = new Plugin
         {
             name = "WindowsGSM.AmericanTruckSimulator", // WindowsGSM.XXXX
-            author = "ohmcodes",
+            author = "MrJohnDowe",
             description = "WindowsGSM plugin for supporting American Truck Simulator Dedicated Server",
-            version = "1.0",
-            url = "https://github.com/ohmcodes/WindowsGSM.AmericanTruckSimulator", // Github repository link (Best practice)
+            version = "1.0.1",
+            url = "https://github.com/mrjohndowe/WindowsGSM-WindowsGSM.AmericanTruckSimulator.git", // Github repository link (Best practice)
             color = "#171685" // Color Hex
         };
 
