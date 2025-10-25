@@ -8,7 +8,7 @@
 4. Drag WindowsGSM.Exe into previoulsy created folder and execute it.
 
 # Plugin Installation:
-1. Download [latest](https://github.com/ohmcodes/WindowsGSM.AmericanTruckSimulator/releases/latest) release
+1. Download [latest](https://github.com/mrjohndowe/WindowsGSM.AmericanTruckSimulator/releases/latest) release
 2. Extract then Move **AmericanTruckSimulator.cs** folder to **plugins** folder
 3. OR Press on the Puzzle Icon in the left bottom side and install this plugin by navigating to it and select the Zip File.
 4. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
@@ -66,4 +66,4 @@ max_players => Server Maxplayer (DONT CHANGE)
 13. Start the Server
 
 # License
-This project is licensed under the MIT License - see the <a href="https://github.com/ohmcodes/WindowsGSM.AmericanTruckSimulator/blob/main/LICENSE">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/mrjohndowe/WindowsGSM.AmericanTruckSimulator/blob/main/LICENSE">LICENSE.md</a> file for details
